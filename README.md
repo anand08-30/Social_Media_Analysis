@@ -6,7 +6,7 @@ This project is a data analysis case study on social media usage behavior across
 🔍 Objectives
 Analyze usage patterns across countries and age groups
 
-Identify heavy and light social media users
+Identify heavy and light Social Media Users
 
 Rank users based on their social media engagement
 
